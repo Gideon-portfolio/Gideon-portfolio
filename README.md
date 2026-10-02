@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Gideon
 
-<!--
-**Gideon-portfolio/Gideon-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a intermediate Data Analyst with a background in Economics- now building impactful projects in Excel, Power BI, SQL.
 
-Here are some ideas to get you started:
+## Tools I work with
+- Microsoft Excel
+- Power BI
+- SQL
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- [Sales Performance Dashboard] (....)
+
+## Currently Learning
+- Advanced SQL
+- Python for Data Science
+
+## Let's connect!
+[Linkedin](https://www.linkedin.com/in/oluwakoya-gideon-108212406)
