@@ -9,7 +9,7 @@ I'm a intermediate Data Analyst with a background in Economics- now building imp
   
 
 ## My Projects
-- [Sales Performance Dashboard] (....)
+- [Sales Performance Dashboard] (https://github.com/Gideon-portfolio/sales-performance-analysis)
 
 ## Currently Learning
 - Advanced SQL
