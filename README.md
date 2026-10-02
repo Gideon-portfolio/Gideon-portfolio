@@ -1,15 +1,14 @@
 # Hi, I'm Gideon
 
-I'm a intermediate Data Analyst with a background in Economics- now building impactful projects in Excel, Power BI, SQL.
+I'm a Data Analyst with a background in Economics. I use Excel, Power BI and SQL to turn raw data into clear insights and dashboards.
 
 ## Tools I work with
 - Microsoft Excel
 - Power BI
 - SQL
   
-
 ## My Projects
-- [Sales Performance Dashboard] (https://github.com/Gideon-portfolio/sales-performance-analysis)
+- [Sales Performance Dashboard](https://github.com/Gideon-portfolio/sales-performance-analysis)
 
 ## Currently Learning
 - Advanced SQL
